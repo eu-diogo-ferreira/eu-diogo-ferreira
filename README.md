@@ -91,11 +91,11 @@ Projetos em destaque: [NSCPay](https://www.gruponsc.com.br/), [Polgo](https://po
 <br/>
 
 # Onde me encontrar?
-  ![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/eu.diogo.ferreira)(https://linktr.ee/eu.diogo.ferreira)
-  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/diogo-ferreira-developer)
-  ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/dhiogo_fer)
-  ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/eu.diogo.ferreira)
-  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:eu.diogo.ferreira.santos@gmail.com)
+  [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/eu.diogo.ferreira)](https://linktr.ee/eu.diogo.ferreira)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/diogo-ferreira-developer)](https://www.linkedin.com/in/diogo-ferreira-developer)
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/dhiogo_fer)](https://twitter.com/dhiogo_fer)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/eu.diogo.ferreira)](https://www.instagram.com/eu.diogo.ferreira)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:eu.diogo.ferreira.santos@gmail.com)](mailto:eu.diogo.ferreira.santos@gmail.com)
 
 <br/>
 
@@ -103,6 +103,6 @@ Projetos em destaque: [NSCPay](https://www.gruponsc.com.br/), [Polgo](https://po
 
 **Alzea Arafat**
 
-  ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/alzearafat)
-  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alzea)
-  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:alzea.arafat@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/alzearafat)](https://www.instagram.com/alzearafat)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alzea)](https://www.linkedin.com/in/alzea)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:alzea.arafat@gmail.com)](mailto:alzea.arafat@gmail.com)
