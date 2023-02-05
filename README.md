@@ -16,8 +16,6 @@
   Durante minha jornada, trabalhei principalmente no desenvolvimento de soluções <strong>white label</strong> nos modelos <strong>B2B</strong> e <strong>B2C</strong>, atuando principalmente com o desenvolvimento de sistemas de pagamento e de <strong>cashback</strong>, para <strong>campanhas promocionais</strong> e de <strong>engajamento</strong> para o varejo físico e online.
 </p>
 
-<br/>
-
 # Tecnologias
 Tecnologias que utilizo no dia-a-dia de trabalho ou projetos pessoais:
 
@@ -78,7 +76,6 @@ Tecnologias que utilizo no dia-a-dia de trabalho ou projetos pessoais:
   ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-<br/>
 <br/>
 
 # Experiência
