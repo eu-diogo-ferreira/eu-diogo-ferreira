@@ -91,7 +91,7 @@ Projetos em destaque: [NSCPay](https://www.gruponsc.com.br/), [Polgo](https://po
 <br/>
 
 # Onde me encontrar?
-  ![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/eu.diogo.ferreira)
+  ![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/eu.diogo.ferreira)(https://linktr.ee/eu.diogo.ferreira)
   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/diogo-ferreira-developer)
   ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/dhiogo_fer)
   ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/eu.diogo.ferreira)
