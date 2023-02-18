@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  Tenho <strong>mais de 2 anos</strong> de experiência com o desenvolvimento de software, tendo a oportunidade de idealizar, planejar e acompanhar o desenvolvimento e evolução de soluções tecnológicas dos mais diversos padrões arquiteturais, transformando sistemas monolíticos em micro-serviços, além de implementar soluções finais em serverless e stateless.
+  Tenho <strong>mais de 4 anos</strong> de experiência com o desenvolvimento de software, tendo a oportunidade de idealizar, planejar e acompanhar o desenvolvimento e evolução de soluções tecnológicas dos mais diversos padrões arquiteturais, transformando sistemas monolíticos em micro-serviços, além de implementar soluções finais em serverless e stateless.
 </p>
 
 <p align="left">
@@ -17,7 +17,7 @@
 </p>
 
 # Tecnologias
-Tecnologias que utilizo no dia-a-dia de trabalho ou projetos pessoais:
+Tecnologias que utilizo no dia-a-dia de trabalho e projetos pessoais:
 
 ## Frontend
 
